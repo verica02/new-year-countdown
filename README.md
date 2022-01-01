@@ -1,5 +1,5 @@
 # new-year-countdown
-🎉 New Year countdown website with vanilla JavaScript 🎈 🥂 
+🎉 New Year countdown website with JavaScript 🎈 🥂 
 # Demo 
 https://new-year-counter-2022.netlify.app/
 
